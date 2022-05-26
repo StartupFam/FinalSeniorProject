@@ -1,0 +1,13 @@
+//There are two sets of code in this project, 1 that's code is based off of https://create.arduino.cc/projecthub/Arduino_Scuola/a-simple-simon-says-game-25ba99
+//And another that is a custom built derivative these can be seen as Unchanged_Code and Test1_Code. They are both written in the Arduino IDE in C++
+//
+
+
+
+
+
+//Install Notes
+//to install:
+//Download Arduino IDE
+//Download Code package
+//Upload code to Arduino through the IDE
